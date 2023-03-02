@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-le1&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="lucas-le1" /></p>
 <br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-le1&show_icons=true&locale=en&count_private=true&theme=github_dark" alt="lucas-le1" /></p>
+<p style="display:flex;flex-direction:column;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-le1&show_icons=true&locale=en&count_private=true&theme=github_dark" alt="lucas-le1" /></p>
