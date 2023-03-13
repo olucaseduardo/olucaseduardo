@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Eduardo</h1>
 <h3 align="center">A Brazilian full stack developer</h3>
 
+![Metrics])
+
+<img align="left" width="390" alt="🦑" src="https://metrics.lecoq.io/Lucas-LE1"/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-le1&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-le1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,5 +17,5 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
-![Metrics](https://metrics.lecoq.io/Lucas-LE1)
+
 
