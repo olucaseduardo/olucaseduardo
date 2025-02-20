@@ -37,5 +37,5 @@ Atualmente sou estudante de **Ciência da Computação** pelo **IFMA Campus Caxi
 Tenho **19 anos** e sou apaixonado por tecnologia e desenvolvimento de software. Me dedico a **projetos pessoais e institucionais** utilizando **Java, Golang, TypeScript, Python e Dart**. Busco sempre novos desafios para aprimorar minhas habilidades e expandir meu conhecimento no desenvolvimento de sistemas escaláveis e eficientes.
 
 📫 **Contato:** le.eduardo.dev@gmail.com  
-🔗 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+🔗 **GitHub:** [github.com/olucaseduardo](https://github.com/olucaseduardo)  
+🔗 **LinkedIn:** [linkedin.com/in/olucaseduardo](https://www.linkedin.com/in/lucas-eduardo-89a92a328/)
