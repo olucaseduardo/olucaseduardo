@@ -10,7 +10,7 @@ Atualmente sou estudante de **Ciência da Computação** pelo **IFMA Campus Caxi
 
 - **Linguagens:** Java, Golang, TypeScript, JavaScript
 - **Frameworks & Bibliotecas:** Spring Boot, Node.js, React, Vue, Tailwind, Flutter
-- **Banco de Dados:** SQL, NoSQL
+- **Banco de Dados:** PostgreSQL, MySQL, Cassandra (NoSQL), MongoDB (NoSQL)
 - **Ferramentas:** Git, AWS, Docker, Figma
 - **Metodologias:** CI/CD, Desenvolvimento Ágil
 
