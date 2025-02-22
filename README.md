@@ -8,10 +8,10 @@ Atualmente sou estudante de **Ciência da Computação** pelo **IFMA Campus Caxi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Java, Golang, TypeScript
+- **Linguagens:** Java, Golang, TypeScript, JavaScript
 - **Frameworks & Bibliotecas:** Spring Boot, Node.js, React, Vue, Tailwind, Flutter
 - **Banco de Dados:** SQL, NoSQL
-- **Ferramentas:** Git, AWS, Figma
+- **Ferramentas:** Git, AWS, Docker, Figma
 - **Metodologias:** CI/CD, Desenvolvimento Ágil
 
 ---
