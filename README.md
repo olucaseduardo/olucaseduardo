@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Eduardo!
 
-**💻 Desenvolvedor Backend | 📍 Caxias - MA**
+**💻 Desenvolvedor FullStack | 📍 Caxias - MA**
 
 Atualmente sou estudante de **Ciência da Computação** pelo **IFMA Campus Caxias**, com formação técnica em **Informática**. Meu foco principal está no **backend**, mas também exploro diversas tecnologias para desenvolvimento de aplicações escaláveis e eficientes.
 
