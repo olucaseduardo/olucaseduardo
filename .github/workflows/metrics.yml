@@ -2,27 +2,43 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # 1. Explicitly list what you want in 'base' and ensure 'projects' isn't there
+
+          # 1. FIX: Set your actual username here
+          user: olucaseduardo
+          
+          template: classic
+          
+          # 2. FIX: Remove 'community' to avoid the deprecated Projects query
           base: header, repositories, metadata
           
-          # 2. Add this line to force the action to skip the deprecated projects query
-          repositories_batch: 100 
+          config_timezone: America/Sao_Paulo
+          
+          # 3. Explicitly disable the crashing plugin
+          plugin_projects: no
+          plugin_projects_v2: no
+          
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          
           plugin_habits: yes
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          # 3. Keep this as 'no' and consider if you actually need v2 
-          # (v2 requires the 'project' scope on your PAT)
-          plugin_projects: no
-          plugin_projects_v2: no 
-          
           plugin_achievements: yes
+          plugin_achievements_threshold: C
