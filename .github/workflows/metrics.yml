@@ -14,5 +14,5 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_projects: yes
+          plugin_projects: no
           plugin_achievements: yes
