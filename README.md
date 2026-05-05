@@ -9,21 +9,21 @@
 
 ### 🧠 Profile & Expertise
 
-Sou graduando em **Ciência da Computação** e técnico em **Informática** pelo IFMA Campus Caxias. Minha trajetória é focada no desenvolvimento de sistemas robustos, com forte experiência em backend, arquiteturas escaláveis e automação.
+Sou graduando em **Ciência da Computação** e técnico em **Informática** pelo IFMA Campus Caxias. Minha trajetória é focada no desenvolvimento de sistemas robustos, com forte experiência em backend, arquiteturas escaláveis e automação.
 
-*   **Core Backend:** Especialista em **Java (Spring Boot)** e **Go**, com domínio de **Python (FastAPI)** e **Node.js**.
-*   **Infrastructure & DevOps:** Experiência com **Docker**, **GitHub Actions (CI/CD)** e **Cloudflare Tunnels** para deploy de aplicações.
-*   **Data & Persistence:** Modelagem avançada em bancos relacionais (**PostgreSQL**, **MySQL**) e NoSQL (**Cassandra**, **MongoDB**).
-*   **AI & Robotics:** Pesquisador em **RAG (Retrieval-Augmented Generation)** para conformidade normativa e desenvolvedor de visão computacional com **YOLOv8**.
+*   **Core Backend:** Especialista em **Java (Spring Boot)** e **Go**, com domínio de **Python (FastAPI)** e **Node.js**.
+*   **Infrastructure & DevOps:** Experiência com **Docker**, **GitHub Actions (CI/CD)** e **Cloudflare Tunnels** para deploy de aplicações.
+*   **Data & Persistence:** Modelagem avançada em bancos relacionais (**PostgreSQL**, **MySQL**) e NoSQL (**Cassandra**, **MongoDB**).
+*   **AI & Robotics:** Pesquisador em **RAG (Retrieval-Augmented Generation)** para conformidade normativa e desenvolvedor de visão computacional com **YOLOv8**.
 
 ---
 
 ### 🏆 Key Achievements
 
-*   🥉 **3º Lugar Mundial na FIRA RoboWorld Cup (Coreia do Sul)**: Desenvolvimento de algoritmos autônomos e controle de hardware com Raspberry Pi 5.
-*   🚑 **SAMU Management System**: Arquiteto da plataforma de monitoramento 24h em tempo real para ocorrências e ambulâncias.
-*   🍱 **Ticket IF**: Idealizador e desenvolvedor do ecossistema mobile para gestão de tickets de refeição no IFMA.
-*   🏷️ **Descontino**: Desenvolvimento de plataforma escalável para gestão de cupons (Java Backend + Flutter Frontend).
+*   🥉 **3º Lugar Mundial na FIRA RoboWorld Cup (Coreia do Sul)**: Desenvolvimento de algoritmos autônomos e controle de hardware com Raspberry Pi 5.
+*   🚑 **SAMU Management System**: Arquiteto da plataforma de monitoramento 24h em tempo real para ocorrências e ambulâncias.
+*   🍱 **Ticket IF**: Idealizador e desenvolvedor do ecossistema mobile para gestão de tickets de refeição no IFMA.
+*   🏷️ **Descontino**: Desenvolvimento de plataforma escalável para gestão de cupons (Java Backend + Flutter Frontend).
 
 ---
 
@@ -41,8 +41,8 @@ Sou graduando em **Ciência da Computação** e técnico em **Informática** pel
 ---
 
 ### 🎓 Academic Background
-- **Bacharelado em Ciência da Computação** | IFMA Campus Caxias (2023 - Atual)
-- **Técnico em Informática** | IFMA Campus Caxias (2020 - 2022)
+- **Bacharelado em Ciência da Computação** | IFMA Campus Caxias (2023 - Atual)
+- **Técnico em Informática** | IFMA Campus Caxias (2020 - 2022)
 
 ---
 
@@ -53,5 +53,5 @@ Sou graduando em **Ciência da Computação** e técnico em **Informática** pel
 
 ---
 <p align="center">
-  <i>"Transformando lógica complexa em soluções eficientes e escaláveis."</i>
+  <i>"Transformando lógica complexa em soluções eficientes e escaláveis."</i>
 </p>
