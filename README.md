@@ -22,7 +22,7 @@ Sou graduando em **Ciência da Computação** e técnico em **Informática*
 
 *   🥉 **3º Lugar Mundial na FIRA RoboWorld Cup (Coreia do Sul)**: Desenvolvimento de algoritmos autônomos e controle de hardware com Raspberry Pi 5.
 *   🚑 **SAMU Management System**: Arquiteto da plataforma de monitoramento 24h em tempo real para ocorrências e ambulâncias.
-*   🍱 **Ticket IF**: Idealizador e desenvolvedor do ecossistema mobile para gestão de tickets de refeição no IFMA.
+*   🍱 **Ticket IF**: Desenvolvedor do ecossistema mobile para gestão de tickets de refeição no IFMA.
 *   🏷️ **Descontino**: Desenvolvimento de plataforma escalável para gestão de cupons (Java Backend + Flutter Frontend).
 
 ---
