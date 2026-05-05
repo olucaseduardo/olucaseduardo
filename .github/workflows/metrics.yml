@@ -26,7 +26,8 @@ jobs:
           
           # 3. Explicitly disable the crashing plugin
           plugin_projects: no
-          plugin_projects_v2: no
+          plugins_errors_fatal: no
+          plugin_projects_v2: yes
           
           # Plugins
           plugin_isocalendar: yes
